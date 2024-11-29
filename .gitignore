@@ -1,0 +1,79 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+# Build artifacts
+bin/
+obj/
+*.log
+*.vspscc
+*.vssscc
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.csproj.user
+
+# IIS Express
+/.vs/
+*.cache
+*.pdb
+
+# Rider files
+.idea/
+.idea_modules/
+*.iml
+
+# Recycle Bin for Visual Studio
+.vs/
+
+# Web-specific files
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Microsoft Azure Web Apps
+.scm/
+deployment/
+
+# VS Code directories and files
+.vscode/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Personal Settings
+*.sql
+*.sqlite
+*.swp
+
+# JetBrains Rider
+.idea/
+
+# Packages
+*.nupkg
+*.snupkg
+packages/
+*.dSYM/
+
+# Tooling
+.vscode/*
+*.nuget/
+*.lock.json
+*.gen.cs
+
+# Resharper
+_ReSharper.Caches/
+
+# T4 code generation artifacts
+*.generated.cs
+
+# Mac files
+.DS_Store
+*.swp
+_tempfolders/*
+
